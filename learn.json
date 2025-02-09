@@ -5,8 +5,8 @@
 	},
 	"slug": "scan-with-nmap",
 	"description": {
-		"us": "Learn the use of Nmap for network analysis and vulnerability detection.",
-		"es": "Aprende el uso de Nmap para el análisis de redes y la detección de vulnerabilidades."
+		"us": "Learn how to use Nmap for network analysis and vulnerability detection by scanning ports, identifying active hosts, and checking services on a target machine to find security weaknesses.",
+		"es": "Aprende a usar Nmap para el análisis de redes y detección de vulnerabilidades escaneando puertos, identificando hosts activos y verificando servicios en una máquina objetivo para encontrar debilidades de seguridad."
 	},
 	"preview": "https://github.com/breatheco-de/scan-with-nmap-practice/blob/main/assets/preview-dvwa.jpg?raw=true",
 	"repository": "https://github.com/breatheco-de/scan-with-nmap-practice",
@@ -18,6 +18,11 @@
 		"instructions": {
 			"en": "Please upload your vulnerability-report.pdf file to your GitHub repository and provide the link to your repository here",
 			"es": "Por favor sube tu archivo vulnerability-report.pdf a tu repositorio de GitHub y proporciona el enlace a tu repositorio aquí"
-		}
+		},
+	"autoPlay": false,
+    	"projectType": "project",
+	"telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1859"
+	}
 	}
 }
